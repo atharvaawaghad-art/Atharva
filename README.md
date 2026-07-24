@@ -8,6 +8,7 @@ Auther - Atharva Awaghad
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/atharvaawaghad-art/Atharva/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/atharvaawaghad-art/Atharva/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0073-set-matrix-zeroes) |
@@ -21,6 +22,7 @@ Auther - Atharva Awaghad
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0027-remove-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
