@@ -21,6 +21,7 @@ Auther - Atharva Awaghad
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharvaawaghad-art/Atharva/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ Auther - Atharva Awaghad
 | ------- |
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,8 @@ Auther - Atharva Awaghad
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/atharvaawaghad-art/Atharva/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
