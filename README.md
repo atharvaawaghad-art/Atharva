@@ -35,6 +35,7 @@ Auther - Atharva Awaghad
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0027-remove-element) |
+| [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -80,4 +81,8 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
