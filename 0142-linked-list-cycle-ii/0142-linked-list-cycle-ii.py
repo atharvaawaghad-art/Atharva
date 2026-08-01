@@ -1,13 +1,17 @@
 class Solution(object):
     def detectCycle(self, head):
-        temp=head
-        myset=set()
-        while temp is not None:
-            if temp not in myset:
-                myset.add(temp)
-            else:
-                return temp
-            temp=temp.next
+        slow=head
+        fast=head
+        while fast is not None and fast.next is not None:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast:
+                slow=head
+                while slow!=fast:
+                    slow=slow.next
+                    fast=fast.next
+                return slow
+        return None
                     
 
         
