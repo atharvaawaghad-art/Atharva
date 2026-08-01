@@ -36,6 +36,7 @@ Auther - Atharva Awaghad
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -49,6 +50,7 @@ Auther - Atharva Awaghad
 | [0073-set-matrix-zeroes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
