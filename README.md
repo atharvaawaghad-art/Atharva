@@ -34,6 +34,7 @@ Auther - Atharva Awaghad
 | ------- |
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
@@ -88,6 +89,7 @@ Auther - Atharva Awaghad
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0206-reverse-linked-list) |
