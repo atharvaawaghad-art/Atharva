@@ -9,6 +9,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/atharvaawaghad-art/Atharva/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0033-search-in-rotated-sorted-array) |
@@ -33,6 +34,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/atharvaawaghad-art/Atharva/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0027-remove-element) |
@@ -71,6 +73,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/atharvaawaghad-art/Atharva/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
