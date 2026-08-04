@@ -102,4 +102,8 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/atharvaawaghad-art/Atharva/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
