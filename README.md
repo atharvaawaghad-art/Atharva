@@ -24,6 +24,7 @@ Auther - Atharva Awaghad
 | [0128-longest-consecutive-sequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -56,6 +57,7 @@ Auther - Atharva Awaghad
 | [0128-longest-consecutive-sequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Auther - Atharva Awaghad
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/atharvaawaghad-art/Atharva/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -126,4 +129,16 @@ Auther - Atharva Awaghad
 | ------- |
 | [0136-single-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
