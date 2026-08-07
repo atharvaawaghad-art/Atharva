@@ -1,9 +1,13 @@
 class Solution(object):
     def majorityElement(self, nums):
-        freq={}
+        count=0
+        curr=0
         for num in nums:
-            freq[num]=freq.get(num,0)+1
-        for key,value in freq.items():
-            if value>len(nums)//2:
-                return key
+            if count==0:
+                curr=num
+            if num==curr:
+                count+=1
+            else:
+                count-=1
+        return curr
         
