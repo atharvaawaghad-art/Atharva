@@ -120,4 +120,8 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
