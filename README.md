@@ -26,6 +26,7 @@ Auther - Atharva Awaghad
 | [0136-single-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -59,6 +60,7 @@ Auther - Atharva Awaghad
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 ## Union-Find
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Auther - Atharva Awaghad
 | [0016-3sum-closest](https://github.com/atharvaawaghad-art/Atharva/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
