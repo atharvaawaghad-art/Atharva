@@ -33,6 +33,7 @@ Auther - Atharva Awaghad
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharvaawaghad-art/Atharva/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/atharvaawaghad-art/Atharva/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/atharvaawaghad-art/Atharva/tree/master/0125-valid-palindrome) |
 ## Stack
@@ -128,6 +130,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,5 +152,6 @@ Auther - Atharva Awaghad
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
