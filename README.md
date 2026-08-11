@@ -46,6 +46,7 @@ Auther - Atharva Awaghad
 | [0125-valid-palindrome](https://github.com/atharvaawaghad-art/Atharva/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -83,6 +84,7 @@ Auther - Atharva Awaghad
 | [0015-3sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/atharvaawaghad-art/Atharva/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,6 +108,7 @@ Auther - Atharva Awaghad
 | [0083-remove-duplicates-from-sorted-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/atharvaawaghad-art/Atharva/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0328-odd-even-linked-list) |
@@ -140,6 +143,7 @@ Auther - Atharva Awaghad
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -154,4 +158,8 @@ Auther - Atharva Awaghad
 | ------- |
 | [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0078-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
