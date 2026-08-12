@@ -1,7 +1,14 @@
 class Solution(object):
+    def solve(self,index,subset,digits,phone,result):
+        if index>=len(digits):
+            result.append("".join(subset))
+            return
+        for ch in phone[digits[index]]:
+            subset.append(ch)
+            self.solve(index+1,subset,digits,phone,result)
+            subset.pop()
     def letterCombinations(self, digits):
-        if not digits:
-            return []
+        result=[]
         phone = {
             "2": "abc",
             "3": "def",
@@ -12,11 +19,6 @@ class Solution(object):
             "8": "tuv",
             "9": "wxyz"
         }
-        result = [""]
-        for digit in digits:
-            new_result = []
-            for combination in result:
-                for letter in phone[digit]:
-                    new_result.append(combination + letter)
-            result = new_result
+        self.solve(0,[],digits,phone,result)
         return result
+        
