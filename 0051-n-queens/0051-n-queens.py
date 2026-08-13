@@ -1,39 +1,27 @@
 class Solution(object):
-    def solve(self,col,board,ans,n):
+    def solve(self,col,board,leftrow,upperdiagonal,lowerdiagonal,result,n):
         if col==n:
-            ans.append(list(board))
+            result.append(board[:])
             return
         for row in range(n):
-            if self.safe(row,col,board,n):
+            if leftrow[row]==0 and upperdiagonal[(n-1)+(col-row)]==0 and lowerdiagonal[row+col]==0:
                 board[row]=board[row][:col]+"Q"+board[row][col+1:]
-                self.solve(col+1,board,ans,n)
+                leftrow[row]=1
+                upperdiagonal[(n-1)+(col-row)]=1
+                lowerdiagonal[row+col]=1
+                self.solve(col+1,board,leftrow,upperdiagonal,lowerdiagonal,result,n)
                 board[row]=board[row][:col]+"."+board[row][col+1:]
-    def safe(self,row,col,board,n):
-        duprow=row
-        dupcol=col
-        while row>=0 and col>=0:
-            if board[row][col]=="Q":
-                return False
-            row-=1
-            col-=1
-        row=duprow
-        col=dupcol
-        while col>=0:
-            if board[row][col]=="Q":
-                return False
-            col-=1
-        row=duprow
-        col=dupcol
-        while row<n and col>=0:
-            if board[row][col]=="Q":
-                return False
-            row+=1
-            col-=1
-        return True
+                leftrow[row]=0
+                upperdiagonal[(n-1)+(col-row)]=0
+                lowerdiagonal[row+col]=0
     def solveNQueens(self, n):
-        ans=[]
+        result=[]
         board=["."*n for _ in range(n)]
-        self.solve(0,board,ans,n)
-        return ans
+        leftrow=[0]*n
+        upperdiagonal=[0]*(2*n-1)
+        lowerdiagonal=[0]*(2*n-1)
+        self.solve(0,board,leftrow,upperdiagonal,lowerdiagonal,result,n)
+        return result
+        
         
         
