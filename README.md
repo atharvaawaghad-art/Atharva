@@ -18,6 +18,7 @@ Auther - Atharva Awaghad
 | [0039-combination-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/atharvaawaghad-art/Atharva/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/atharvaawaghad-art/Atharva/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/atharvaawaghad-art/Atharva/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/atharvaawaghad-art/Atharva/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0073-set-matrix-zeroes) |
@@ -165,10 +166,15 @@ Auther - Atharva Awaghad
 | [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/atharvaawaghad-art/Atharva/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0216-combination-sum-iii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/atharvaawaghad-art/Atharva/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
