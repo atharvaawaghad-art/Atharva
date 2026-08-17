@@ -33,6 +33,7 @@ Auther - Atharva Awaghad
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/atharvaawaghad-art/Atharva/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ Auther - Atharva Awaghad
 | [0020-valid-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/atharvaawaghad-art/Atharva/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
