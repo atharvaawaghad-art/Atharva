@@ -34,6 +34,7 @@ Auther - Atharva Awaghad
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -106,6 +107,7 @@ Auther - Atharva Awaghad
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharvaawaghad-art/Atharva/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -197,4 +200,8 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
