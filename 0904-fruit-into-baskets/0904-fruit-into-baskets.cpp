@@ -6,7 +6,7 @@ public:
         int ans=0;
         for (int right=0;right<fruits.size();right++){
             freq[fruits[right]]++;
-            while (freq.size()>2){
+            if (freq.size()>2){
                 freq[fruits[left]]--;
                 if (freq[fruits[left]]==0){
                     freq.erase(fruits[left]);
