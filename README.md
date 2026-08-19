@@ -34,6 +34,7 @@ Auther - Atharva Awaghad
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -73,6 +74,7 @@ Auther - Atharva Awaghad
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0904-fruit-into-baskets) |
 ## Union-Find
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharvaawaghad-art/Atharva/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
