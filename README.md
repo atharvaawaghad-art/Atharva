@@ -31,6 +31,7 @@ Auther - Atharva Awaghad
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
@@ -56,6 +57,7 @@ Auther - Atharva Awaghad
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -100,6 +102,7 @@ Auther - Atharva Awaghad
 | [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -210,4 +213,12 @@ Auther - Atharva Awaghad
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/atharvaawaghad-art/Atharva/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
