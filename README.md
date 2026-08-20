@@ -36,6 +36,7 @@ Auther - Atharva Awaghad
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/atharvaawaghad-art/Atharva/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -195,6 +196,7 @@ Auther - Atharva Awaghad
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharvaawaghad-art/Atharva/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/atharvaawaghad-art/Atharva/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
@@ -207,4 +209,5 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/atharvaawaghad-art/Atharva/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
