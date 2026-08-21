@@ -20,6 +20,7 @@ Auther - Atharva Awaghad
 | [0048-rotate-image](https://github.com/atharvaawaghad-art/Atharva/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/atharvaawaghad-art/Atharva/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/atharvaawaghad-art/Atharva/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/atharvaawaghad-art/Atharva/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0078-subsets) |
@@ -45,6 +46,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharvaawaghad-art/Atharva/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -217,6 +219,7 @@ Auther - Atharva Awaghad
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/atharvaawaghad-art/Atharva/tree/master/0860-lemonade-change) |
 ## Quicksort
