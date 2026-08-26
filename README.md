@@ -101,6 +101,7 @@ Auther - Atharva Awaghad
 | [0048-rotate-image](https://github.com/atharvaawaghad-art/Atharva/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/atharvaawaghad-art/Atharva/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/atharvaawaghad-art/Atharva/tree/master/2235-add-two-integers) |
 ## Sorting
 |  |
 | ------- |
