@@ -70,6 +70,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/atharvaawaghad-art/Atharva/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -99,6 +100,7 @@ Auther - Atharva Awaghad
 | ------- |
 | [0048-rotate-image](https://github.com/atharvaawaghad-art/Atharva/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/atharvaawaghad-art/Atharva/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Auther - Atharva Awaghad
 | [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/atharvaawaghad-art/Atharva/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/atharvaawaghad-art/Atharva/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
