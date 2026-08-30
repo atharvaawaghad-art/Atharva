@@ -7,7 +7,6 @@ public:
         if (root->left==nullptr && root->right==nullptr){
             return targetSum==root->val;
         }
-        targetSum-=root->val;
-        return hasPathSum(root->left,targetSum) || hasPathSum(root->right,targetSum);
+        return hasPathSum(root->left,targetSum-root->val) || hasPathSum(root->right,targetSum-root->val);
     }
 };
