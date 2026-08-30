@@ -243,6 +243,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
@@ -252,6 +253,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
@@ -261,6 +263,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
@@ -268,6 +271,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
