@@ -242,6 +242,7 @@ Auther - Atharva Awaghad
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
@@ -249,6 +250,7 @@ Auther - Atharva Awaghad
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
@@ -256,11 +258,13 @@ Auther - Atharva Awaghad
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
