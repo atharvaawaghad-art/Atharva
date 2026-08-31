@@ -156,6 +156,7 @@ Auther - Atharva Awaghad
 | [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/atharvaawaghad-art/Atharva/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/atharvaawaghad-art/Atharva/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
@@ -199,6 +200,7 @@ Auther - Atharva Awaghad
 | [0051-n-queens](https://github.com/atharvaawaghad-art/Atharva/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Auther - Atharva Awaghad
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -260,6 +263,7 @@ Auther - Atharva Awaghad
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -280,6 +284,7 @@ Auther - Atharva Awaghad
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
