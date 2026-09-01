@@ -255,6 +255,7 @@ Auther - Atharva Awaghad
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -270,6 +271,7 @@ Auther - Atharva Awaghad
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -297,10 +299,19 @@ Auther - Atharva Awaghad
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
