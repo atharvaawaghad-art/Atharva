@@ -124,6 +124,7 @@ Auther - Atharva Awaghad
 | [0035-search-insert-position](https://github.com/atharvaawaghad-art/Atharva/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
@@ -176,6 +177,7 @@ Auther - Atharva Awaghad
 | ------- |
 | [0078-subsets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -251,6 +253,7 @@ Auther - Atharva Awaghad
 | [0112-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
@@ -295,6 +298,7 @@ Auther - Atharva Awaghad
 | [0112-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
