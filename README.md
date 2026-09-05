@@ -164,6 +164,7 @@ Auther - Atharva Awaghad
 | ------- |
 | [0020-valid-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/atharvaawaghad-art/Atharva/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0682-baseball-game) |
@@ -255,6 +256,7 @@ Auther - Atharva Awaghad
 | [0112-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
@@ -274,6 +276,7 @@ Auther - Atharva Awaghad
 | [0112-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
@@ -304,6 +307,7 @@ Auther - Atharva Awaghad
 | [0112-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/atharvaawaghad-art/Atharva/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
