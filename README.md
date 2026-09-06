@@ -159,6 +159,7 @@ Auther - Atharva Awaghad
 | [0125-valid-palindrome](https://github.com/atharvaawaghad-art/Atharva/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
+| [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Auther - Atharva Awaghad
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -285,6 +287,7 @@ Auther - Atharva Awaghad
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -321,6 +324,7 @@ Auther - Atharva Awaghad
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
