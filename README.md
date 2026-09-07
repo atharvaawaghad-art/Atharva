@@ -269,6 +269,7 @@ Auther - Atharva Awaghad
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Auther - Atharva Awaghad
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -339,4 +341,8 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
