@@ -271,6 +271,7 @@ Auther - Atharva Awaghad
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -293,6 +294,7 @@ Auther - Atharva Awaghad
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -308,6 +310,7 @@ Auther - Atharva Awaghad
 | [0226-invert-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -334,6 +337,7 @@ Auther - Atharva Awaghad
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
 |  |
@@ -352,4 +356,5 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
