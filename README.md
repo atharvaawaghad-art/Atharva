@@ -45,6 +45,7 @@ Auther - Atharva Awaghad
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atharvaawaghad-art/Atharva/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Auther - Atharva Awaghad
 | [0066-plus-one](https://github.com/atharvaawaghad-art/Atharva/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/atharvaawaghad-art/Atharva/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atharvaawaghad-art/Atharva/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
