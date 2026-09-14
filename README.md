@@ -26,6 +26,7 @@ Auther - Atharva Awaghad
 | [0073-set-matrix-zeroes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharvaawaghad-art/Atharva/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@ Auther - Atharva Awaghad
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharvaawaghad-art/Atharva/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0142-linked-list-cycle-ii) |
@@ -188,6 +190,7 @@ Auther - Atharva Awaghad
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/atharvaawaghad-art/Atharva/tree/master/0169-majority-element) |
@@ -258,6 +261,7 @@ Auther - Atharva Awaghad
 | [0102-binary-tree-level-order-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -329,6 +333,7 @@ Auther - Atharva Awaghad
 | [0102-binary-tree-level-order-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0111-minimum-depth-of-binary-tree) |
