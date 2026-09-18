@@ -43,6 +43,7 @@ Auther - Atharva Awaghad
 | [0860-lemonade-change](https://github.com/atharvaawaghad-art/Atharva/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/atharvaawaghad-art/Atharva/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1480-running-sum-of-1d-array) |
@@ -175,6 +176,7 @@ Auther - Atharva Awaghad
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -236,6 +238,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Auther - Atharva Awaghad
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/atharvaawaghad-art/Atharva/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +373,7 @@ Auther - Atharva Awaghad
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/atharvaawaghad-art/Atharva/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -394,6 +399,7 @@ Auther - Atharva Awaghad
 | [0701-insert-into-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/atharvaawaghad-art/Atharva/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
