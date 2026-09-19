@@ -108,6 +108,7 @@ Auther - Atharva Awaghad
 | ------- |
 | [0048-rotate-image](https://github.com/atharvaawaghad-art/Atharva/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/atharvaawaghad-art/Atharva/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/atharvaawaghad-art/Atharva/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/atharvaawaghad-art/Atharva/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharvaawaghad-art/Atharva/tree/master/3875-construct-uniform-parity-array-i) |
@@ -128,6 +129,7 @@ Auther - Atharva Awaghad
 | [0033-search-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/atharvaawaghad-art/Atharva/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/atharvaawaghad-art/Atharva/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
@@ -410,4 +412,8 @@ Auther - Atharva Awaghad
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/atharvaawaghad-art/Atharva/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
