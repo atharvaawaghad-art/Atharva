@@ -2,11 +2,19 @@ class Solution {
 public:
     int mySqrt(int x) {
         if (x < 2) return x;
-        for (int i = 1; i <= x / 2; i++) {
-            if ((long long)i * i > x) {
-                return i - 1;
+        int left = 1;
+        int right = x / 2;
+        int ans = 0;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if ((long long)mid * mid <= x) {
+                ans = mid;
+                left = mid + 1;
+            }
+            else {
+                right = mid - 1;
             }
         }
-        return x / 2;
+        return ans;
     }
 };
