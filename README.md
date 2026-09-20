@@ -81,6 +81,7 @@ Auther - Atharva Awaghad
 | [0682-baseball-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/atharvaawaghad-art/Atharva/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Auther - Atharva Awaghad
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
+| [3498-reverse-degree-of-a-string](https://github.com/atharvaawaghad-art/Atharva/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
