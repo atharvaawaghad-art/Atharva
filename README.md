@@ -55,6 +55,7 @@ Auther - Atharva Awaghad
 | [0022-generate-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharvaawaghad-art/Atharva/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
@@ -109,6 +110,7 @@ Auther - Atharva Awaghad
 | [0048-rotate-image](https://github.com/atharvaawaghad-art/Atharva/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/atharvaawaghad-art/Atharva/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/atharvaawaghad-art/Atharva/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/atharvaawaghad-art/Atharva/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharvaawaghad-art/Atharva/tree/master/3875-construct-uniform-parity-array-i) |
@@ -416,4 +418,8 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/atharvaawaghad-art/Atharva/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
