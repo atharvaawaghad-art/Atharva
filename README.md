@@ -176,6 +176,7 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atharvaawaghad-art/Atharva/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/atharvaawaghad-art/Atharva/tree/master/0155-min-stack) |
@@ -265,6 +266,7 @@ Auther - Atharva Awaghad
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0101-symmetric-tree) |
@@ -302,6 +304,7 @@ Auther - Atharva Awaghad
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0101-symmetric-tree) |
@@ -346,6 +349,7 @@ Auther - Atharva Awaghad
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvaawaghad-art/Atharva/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0101-symmetric-tree) |
