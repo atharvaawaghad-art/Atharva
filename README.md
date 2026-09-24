@@ -298,6 +298,7 @@ Auther - Atharva Awaghad
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -331,6 +332,7 @@ Auther - Atharva Awaghad
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/atharvaawaghad-art/Atharva/tree/master/0938-range-sum-of-bst) |
@@ -350,6 +352,7 @@ Auther - Atharva Awaghad
 | [0404-sum-of-left-leaves](https://github.com/atharvaawaghad-art/Atharva/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/atharvaawaghad-art/Atharva/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -384,6 +387,7 @@ Auther - Atharva Awaghad
 | [0572-subtree-of-another-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/atharvaawaghad-art/Atharva/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0701-insert-into-a-binary-search-tree) |
