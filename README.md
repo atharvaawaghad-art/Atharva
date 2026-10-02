@@ -76,6 +76,7 @@ Auther - Atharva Awaghad
 | [0202-happy-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/atharvaawaghad-art/Atharva/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -182,6 +183,7 @@ Auther - Atharva Awaghad
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
+| [1768-merge-strings-alternately](https://github.com/atharvaawaghad-art/Atharva/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/atharvaawaghad-art/Atharva/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
