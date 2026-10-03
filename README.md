@@ -124,6 +124,7 @@ Auther - Atharva Awaghad
 | [0070-climbing-stairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atharvaawaghad-art/Atharva/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/atharvaawaghad-art/Atharva/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharvaawaghad-art/Atharva/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -184,6 +185,7 @@ Auther - Atharva Awaghad
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atharvaawaghad-art/Atharva/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/atharvaawaghad-art/Atharva/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/atharvaawaghad-art/Atharva/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -461,4 +463,12 @@ Auther - Atharva Awaghad
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0202-happy-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atharvaawaghad-art/Atharva/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atharvaawaghad-art/Atharva/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
