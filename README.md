@@ -38,6 +38,7 @@ Auther - Atharva Awaghad
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/atharvaawaghad-art/Atharva/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/atharvaawaghad-art/Atharva/tree/master/0735-asteroid-collision) |
@@ -274,6 +275,7 @@ Auther - Atharva Awaghad
 | [0045-jump-game-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atharvaawaghad-art/Atharva/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/atharvaawaghad-art/Atharva/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/atharvaawaghad-art/Atharva/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
