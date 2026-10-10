@@ -64,6 +64,7 @@ Auther - Atharva Awaghad
 | [0118-pascals-triangle](https://github.com/atharvaawaghad-art/Atharva/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharvaawaghad-art/Atharva/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atharvaawaghad-art/Atharva/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Auther - Atharva Awaghad
 | [0202-happy-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/atharvaawaghad-art/Atharva/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/atharvaawaghad-art/Atharva/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
@@ -192,6 +194,7 @@ Auther - Atharva Awaghad
 | [0151-reverse-words-in-a-string](https://github.com/atharvaawaghad-art/Atharva/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/atharvaawaghad-art/Atharva/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/atharvaawaghad-art/Atharva/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/atharvaawaghad-art/Atharva/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/atharvaawaghad-art/Atharva/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/atharvaawaghad-art/Atharva/tree/master/0606-construct-string-from-binary-tree) |
