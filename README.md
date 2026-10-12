@@ -53,6 +53,7 @@ Auther - Atharva Awaghad
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/atharvaawaghad-art/Atharva/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1480-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharvaawaghad-art/Atharva/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ Auther - Atharva Awaghad
 | [0443-string-compression](https://github.com/atharvaawaghad-art/Atharva/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvaawaghad-art/Atharva/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/atharvaawaghad-art/Atharva/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvaawaghad-art/Atharva/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -114,6 +116,7 @@ Auther - Atharva Awaghad
 | [0202-happy-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/atharvaawaghad-art/Atharva/tree/master/0904-fruit-into-baskets) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Auther - Atharva Awaghad
 | [0217-contains-duplicate](https://github.com/atharvaawaghad-art/Atharva/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/atharvaawaghad-art/Atharva/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
