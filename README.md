@@ -138,6 +138,7 @@ Auther - Atharva Awaghad
 | [0069-sqrtx](https://github.com/atharvaawaghad-art/Atharva/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/atharvaawaghad-art/Atharva/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/atharvaawaghad-art/Atharva/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/atharvaawaghad-art/Atharva/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/atharvaawaghad-art/Atharva/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/atharvaawaghad-art/Atharva/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/atharvaawaghad-art/Atharva/tree/master/2235-add-two-integers) |
@@ -164,6 +165,7 @@ Auther - Atharva Awaghad
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharvaawaghad-art/Atharva/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvaawaghad-art/Atharva/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/atharvaawaghad-art/Atharva/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/atharvaawaghad-art/Atharva/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/atharvaawaghad-art/Atharva/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvaawaghad-art/Atharva/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
